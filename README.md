@@ -54,15 +54,15 @@ in the images directory.
 # BOM
 | QTY | ID | Part Description |
 | :-------------: | ------------- | ------------- |
-| 1  | U1  | 74LS04N |
-| 1  | U2  | 74LS14N |
-| 1  | U3  | LM340L |
+| 1  | U1  | SN74LS04N |
+| 1  | U2  | SN74LS14N |
+| 1  | U3  | 296-LM340LAZ-5.0 |
 | 1  | R1  | 2K Ω Resistor (4 Watt) |
-| 1  | X  | 200 Ω Resistor (4 Watt) |
+| 1  | R2  | 200 Ω Resistor (4 Watt) |
 | 1  | C1  | 25v 10nF Capacitor |
 | 1  | C2  | 25v 10uF Capacitor |
 | 1  | J1  | 1x5 2.54 Pitch Female Header |
-| 1  | X  | Zener Diode |
+| 1  | D1  | SMBJ33A |
 | 1  | OUT  | Molex 0026481026 ([DigiKey](https://www.digikey.com/en/products/detail/molex/0026481026/26777?s=N4IgTCBcDa4GwBYAcBGADGOACAtgewBsBTADxAF0BfIA)) |
 | 1  | IN  | Molex 0009481114 ([DigiKey](https://www.digikey.com/en/products/detail/molex/0009481114/863330?s=N4IgTCBcDaIAwE4AsAOAjBpACAtgewBsBTADxAF0BfIA)) |
 
